@@ -44,7 +44,7 @@
 /flashinfo                          emmc                      /dev/block/by-name/flashinfo                          flags=display="Flashtool Flashing Info [ flashinfo ]";backup=1;flashimg=1
 /frp                                   emmc                      /dev/block/by-name/frp                                  flags=display="Factory Reset Protection [ frp ]";backup=1;flashimg=1
 /misc                                emmc                      /dev/block/by-name/misc                                flags=display="Miscellaneous [ misc ]";backup=1;flashimg=1
-/countrycode                    emmc                      /dev/block/by-name/countrycode                    flags=display="Country Code [ countrycode ]";slotselect;backup=1;flashimg=1
+/countrycode                    emmc                      /dev/block/by-name/countrycode                    flags=display="Country Code [ countrycode ]";backup=1;flashimg=1
 
 # A/B Firmware Partitions
 /apusys                              emmc                      /dev/block/by-name/apusys                           flags=display="AI Processing Unit [ apusys ]";slotselect;backup=1;flashimg=1
