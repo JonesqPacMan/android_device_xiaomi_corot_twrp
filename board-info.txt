@@ -1,0 +1,1 @@
+require board=corot|23078PND5G
